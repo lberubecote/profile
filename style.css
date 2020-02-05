@@ -2,8 +2,9 @@
 
 body {
   /*background-color: #F6F8FB;*/
-  background-image: url("https://images.rove.me/w_740,q_85/mtkg7orhxy548rxm4o1n/utah-lavender-days.jpg");
-}
+  background-image: url("https://www.lelongweekend.com/wp-content/uploads/2018/07/N75_4343-2-1024x684.jpg");
+  background-size: cover;
+  }
 
 h1, h2 {
   color: #575F7D;
