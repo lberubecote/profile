@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins&display=swap');
 
 body {
-  background-color: #F6F8FB;
+  /*background-color: #F6F8FB;*/
+  background-image: url("https://images.rove.me/w_740,q_85/mtkg7orhxy548rxm4o1n/utah-lavender-days.jpg");
 }
 
 h1, h2 {
